@@ -1,8 +1,0 @@
-{
-    "functions": {
-      "api/php.js": {
-        "runtime": "nodejs18.x"
-      }
-    }
-  }
-  
